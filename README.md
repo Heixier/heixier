@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Projects
+- Mini RPG Game ([Graphics ver. w/ FFY07](https://github.com/FFY07/rpg-game) | [Text-Based ver.](https://github.com/Heixier/ai-forest))
+- Bash Scripts
+  - [Multirunner](https://github.com/Heixier/veryc/blob/main/utils/scripts/multirunner.sh)
+
 <!--
 **Heixier/heixier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
