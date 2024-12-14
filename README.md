@@ -11,7 +11,7 @@ I enjoy building, setting up, and troubleshooting computers, making my vim and z
 - [42 School Projects](https://github.com/Heixier/veryc)
 
 ### Events
-- [June Conference 2024](https://buildingblocs.sg/events/june/) — BuildingBloCS
+- [June Conference 2024 (Hackathon)](https://buildingblocs.sg/events/june/) — BuildingBloCS
 
 ### Contact
 Email: rsiah@gmail.com
