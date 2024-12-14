@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm currently a student at 42 working on C projects and writing bash scripts in my free time to automate testing.
+I'm currently a student at 42 Singapore working on C projects and writing bash scripts in my free time to automate testing.
 
 I also enjoy building and setting up computers (troubleshooting!), along with a bit of programming computer games (mostly backend).
 
@@ -9,6 +9,9 @@ I also enjoy building and setting up computers (troubleshooting!), along with a 
 - Mini RPG Game (Python) ([Graphics ver. w/ FFY07](https://github.com/FFY07/rpg-game) | [Text-Based ver.](https://github.com/Heixier/ai-forest))
 - [Bash Scripts](https://github.com/Heixier/bash-scripts)
 - [Collection of 42 School Projects](https://github.com/Heixier/veryc)
+
+### Events
+- [June Conference 2024](https://buildingblocs.sg/events/june/) — BuildingBloCS
 
 ### Contact
 Email: rsiah@gmail.com
