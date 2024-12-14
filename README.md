@@ -1,9 +1,17 @@
-## Hi there 👋
+## Welcome!
 
-Projects
-- Mini RPG Game ([Graphics ver. w/ FFY07](https://github.com/FFY07/rpg-game) | [Text-Based ver.](https://github.com/Heixier/ai-forest))
-- Bash Scripts
-  - [Multirunner](https://github.com/Heixier/veryc/blob/main/utils/scripts/multirunner.sh)
+I'm currently a student at 42 working on C projects and writing bash scripts in my free time to automate testing.
+
+I also enjoy building and setting up computers (troubleshooting!), along with a bit of programming computer games (mostly backend).
+
+
+### Projects
+- Mini RPG Game (Python) ([Graphics ver. w/ FFY07](https://github.com/FFY07/rpg-game) | [Text-Based ver.](https://github.com/Heixier/ai-forest))
+- [Bash Scripts](https://github.com/Heixier/bash-scripts)
+- [Collection of 42 School Projects](https://github.com/Heixier/veryc)
+
+### Contact
+Email: rsiah@gmail.com
 
 <!--
 **Heixier/heixier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
