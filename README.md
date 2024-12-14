@@ -1,8 +1,8 @@
 ## Welcome!
 
-I'm currently a student at 42 Singapore working on C projects and writing bash scripts in my free time to automate testing.
+I'm currently a student at 42 Singapore working on C projects.
 
-I also enjoy building and setting up computers (troubleshooting!), along with a bit of programming computer games (mostly backend).
+I enjoy building, setting up, and troubleshooting computers, procrastinating with making my vim and zsh look pretty, and writing bash scripts to help others automate testing.
 
 
 ### Projects
