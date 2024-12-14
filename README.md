@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm currently a student at 42 Singapore working on C projects.
+I'm currently a student at 42 Singapore working on C projects (currently working on writing a mini shell).
 
 I enjoy building, setting up, and troubleshooting computers, making my vim and zsh look pretty, and writing testing programs and bash scripts to help others.
 
