@@ -2,7 +2,7 @@
 
 I'm currently a student at 42 Singapore working on C projects.
 
-I enjoy building, setting up, and troubleshooting computers, procrastinating with making my vim and zsh look pretty, and writing bash scripts to help others automate testing.
+I enjoy building, setting up, and troubleshooting computers, making my vim and zsh look pretty, and writing bash scripts to help others automate testing.
 
 
 ### Projects
