@@ -1,4 +1,4 @@
-## Welcome!
+## Hello! 👋
 
 I am a student in 42 Singapore working on various C projects.
 
