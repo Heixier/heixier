@@ -2,7 +2,7 @@
 
 I am a student in 42 Singapore working on various C projects.
 
-I enjoy building, setting up, and troubleshooting computers, and writing automated tests in bash.
+I enjoy building, troubleshooting, and setting up computers, as well as writing automated test scripts in bash.
 
 
 ### Projects
