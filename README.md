@@ -1,8 +1,8 @@
 ## Hello! 👋
 
-I am a student in 42 Singapore working on various C projects.
+I am a student in 42 Singapore
 
-I enjoy building, troubleshooting, and setting up computers, as well as writing automated test scripts in bash.
+I like computers
 
 
 ### Projects
