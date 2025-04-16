@@ -9,6 +9,7 @@ I enjoy building, troubleshooting, and setting up computers, as well as writing 
 - Mini RPG Game (Python) ([Graphics ver. w/ FFY07](https://github.com/FFY07/rpg-game) | [Text-Based ver.](https://github.com/Heixier/ai-forest))
 - [Bash Scripts](https://github.com/Heixier/bash-scripts)
 - [42 School Projects](https://github.com/Heixier/veryc)
+- [Pranks](https://github.com/Heixier/pranks)
 
 ### Events
 - [June Conference 2024](https://buildingblocs.sg/events/june/) (Hackathon) — BuildingBloCS
