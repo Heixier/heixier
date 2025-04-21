@@ -7,7 +7,7 @@ I like computers
 
 ### Projects
 - Mini RPG Game (Python) ([Graphics ver. w/ FFY07](https://github.com/FFY07/rpg-game) | [Text-Based ver.](https://github.com/Heixier/ai-forest))
-- [Bash Scripts](https://github.com/Heixier/bash-scripts)
+- [42 Evaluation scripts](https://github.com/Heixier/eval)
 - [42 School Projects](https://github.com/Heixier/veryc)
 - Installing random stuff for unsuspecting students [Pranks](https://github.com/Heixier/pranks)
 
