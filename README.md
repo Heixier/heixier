@@ -7,9 +7,9 @@ I like computers
 
 ### Projects
 - Mini RPG Game ([Graphics ver. w/ FFY07](https://github.com/FFY07/rpg-game) | [Text-Based ver.](https://github.com/Heixier/ai-forest))
-- [42 Evaluation scripts](https://github.com/Heixier/eval)
+- ⭐ [42 Evaluation scripts](https://github.com/Heixier/eval)
 - [42 School Projects](https://github.com/Heixier/veryc)
-- Bash install scripts for unsuspecting students [Pranks](https://github.com/Heixier/pranks)
+- ⭐ Bash install scripts for unsuspecting students [Pranks](https://github.com/Heixier/pranks)
 
 ### Events
 - [June Conference 2024](https://buildingblocs.sg/events/june/) (Hackathon) — BuildingBloCS
