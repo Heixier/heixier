@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I am a student in 42 Singapore
+I am currently studying in 42 Singapore
 
 I like computers
 
