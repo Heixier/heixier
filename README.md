@@ -9,6 +9,7 @@ I like computers
 - Mini RPG Game ([Graphics ver. w/ FFY07](https://github.com/FFY07/rpg-game) | [Text-Based ver.](https://github.com/Heixier/ai-forest))
 - ⭐ [42 Evaluation scripts](https://github.com/Heixier/eval)
 - [42 School Projects](https://github.com/Heixier/veryc)
+    - [Minishell](https://github.com/jellyy-t/minishell) (Group project)
 - ⭐ Bash install scripts for unsuspecting students [Pranks](https://github.com/Heixier/pranks)
 
 ### Events
