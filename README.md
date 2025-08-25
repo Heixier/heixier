@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I am currently studying in 42 Singapore
+I am currently studying in 42
 
 I like computers
 
@@ -17,7 +17,7 @@ I like computers
 - [June Conference 2024](https://buildingblocs.sg/events/june/) (Hackathon) — BuildingBloCS
 
 ### Contact
-Email: rsiah@gmail.com
+Email: rzsiah@gmail.com
 
 <!--
 **Heixier/heixier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
