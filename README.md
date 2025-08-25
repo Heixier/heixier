@@ -10,7 +10,8 @@ I like computers
 - ⭐ [42 Evaluation scripts](https://github.com/Heixier/eval)
 - [42 School Projects](https://github.com/Heixier/veryc)
     - [Minishell](https://github.com/jellyy-t/minishell) (Group project)
-- ⭐ Bash install scripts for unsuspecting students [Pranks](https://github.com/Heixier/pranks)
+    - [Cub3D](https://github.com/https://github.com/Heixier/cub3d) (Group project)
+- ⭐ Fun bash install scripts [Pranks](https://github.com/Heixier/pranks)
 
 ### Events
 - [June Conference 2024](https://buildingblocs.sg/events/june/) (Hackathon) — BuildingBloCS
