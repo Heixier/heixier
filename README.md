@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I was given a set of emojis to use so I used them
+I was given a set of emojis to use
 
 ### Projects
 - Mini RPG Game ([Graphics ver. w/ FFY07](https://github.com/FFY07/rpg-game) | [Text-Based ver.](https://github.com/Heixier/ai-forest))
