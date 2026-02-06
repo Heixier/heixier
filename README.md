@@ -11,7 +11,7 @@ I was given a set of emojis to use
 - [42 C++ Projects](https://github.com/Heixier/cpp)
     - [IRC](https://github.com/Heixier/cri)
 - ⭐ Fun bash install scripts [Pranks](https://github.com/Heixier/pranks)
-- Social Media Dashboard [np-db](https://github.com/Heixier/np-database)
+- Social Media Dashboard [np-db](https://github.com/Heixier/np-database) (postgreSQL, Typescript)
 
 ### Events
 - [June Conference 2024](https://buildingblocs.sg/events/june/) (Hackathon) — BuildingBloCS
