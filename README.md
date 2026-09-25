@@ -1,6 +1,6 @@
 ## Heixier
 
-I specialise in Debian-based systems
+Bash, Ansible, Debian, automation.
 
 ### Projects
 - Mini RPG Game ([Graphics ver. w/ FFY07](https://github.com/FFY07/rpg-game) | [Text-Based ver.](https://github.com/Heixier/ai-forest))
