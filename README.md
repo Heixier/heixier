@@ -10,7 +10,7 @@ Bash, Ansible, Debian, automation.
     - [Cub3D](https://github.com/Heixier/cub3d)
 - [42 C++ Projects](https://github.com/Heixier/cpp)
     - [IRC](https://github.com/Heixier/cri)
-- Fun bash scripts [Pranks](https://github.com/Heixier/pranks)
+- Fun bash scripts [fun-scripts](https://github.com/Heixier/fun-scripts)
 - Social Media Dashboard [np-db](https://github.com/Heixier/np-database) (postgreSQL, Typescript)
 
 ### Events
