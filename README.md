@@ -1,6 +1,7 @@
 ## Heixier
 
-Hello and welcome to my profile! I love automating things! 
+Hello and welcome to my profile! I love automating things in Linux, especially with Bash and Ansible.
+
 Not all projects are public at the moment as I am still in the process of re-writing them without sensitive data and infrastructure details, but I am always happy to answer questions about them!
 
 ### Projects
