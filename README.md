@@ -15,8 +15,5 @@ Not all projects are public at the moment as I am still in the process of re-wri
 - Fun bash scripts [fun-scripts](https://github.com/Heixier/fun-scripts)
 - Social Media Dashboard [np-db](https://github.com/Heixier/np-database) (postgreSQL, Typescript)
 
-### Events
-- [June Conference 2024](https://buildingblocs.sg/events/june/) (Hackathon) — BuildingBloCS
-
 ### Contact
 Email: rzsiah@gmail.com
