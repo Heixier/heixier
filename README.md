@@ -4,7 +4,7 @@ Hello and welcome to my profile! I love automating things!
 Not all projects are public at the moment as I am still in the process of re-writing them without sensitive data and infrastructure details, but I am always happy to answer questions about them!
 
 ### Projects
-(Last updated 2025)
+(Last updated early 2026)
 - Mini RPG Game ([Graphics ver. w/ FFY07](https://github.com/FFY07/rpg-game) | [Text-Based ver.](https://github.com/Heixier/ai-forest))
 - [42 Evaluation scripts](https://github.com/Heixier/eval)
 - [42 C Projects](https://github.com/Heixier/veryc)
