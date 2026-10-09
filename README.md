@@ -2,7 +2,7 @@
 
 Hello and welcome to my profile! I am a computer hardware enthusiast who loves automating things in Linux, especially with Bash and Ansible.
 
-Not all projects are public at the moment as I am still in the process of re-writing them without sensitive data and infrastructure details, but I am always happy to answer questions about them!
+Not all projects are public at the moment as I am still in the process of re-writing them without sensitive data and infrastructure details, but I am always happy to answer questions about them! (or anything else I have listed in my resume)
 
 ### Projects
 (Last updated early 2026)
