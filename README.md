@@ -6,7 +6,7 @@ Not all projects are public at the moment as I am still in the process of re-wri
 
 ### Projects
 (Last updated early 2026)
-- Mini RPG Game ([Graphics ver. w/ FFY07](https://github.com/FFY07/rpg-game) | [Text-Based ver.](https://github.com/Heixier/ai-forest))
+- Mini Python RPG Game ([Graphics ver. w/ FFY07](https://github.com/FFY07/rpg-game) | [Text-Based ver.](https://github.com/Heixier/ai-forest))
 - [42 Evaluation scripts](https://github.com/Heixier/eval)
 - [42 C Projects](https://github.com/Heixier/veryc)
     - [Minishell](https://github.com/jellyy-t/minishell)
